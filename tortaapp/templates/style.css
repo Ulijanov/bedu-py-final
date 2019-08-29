@@ -1,0 +1,27 @@
+h1 {
+    color: rgba(11, 83, 238, 0.616); background-color: rgb(231, 231, 241);
+}
+
+h3 {
+    color: orange;
+    font-size: 18px; 
+
+}
+
+h5 {
+    color: rgb(226, 89, 9); background-color: rgb(231, 231, 241);
+    font-size: 1px;
+}
+
+div {
+    border: .1px solid gray; background-color: rgb(228, 238, 238);
+}
+
+/* col-md-3 {
+    border: .5px; background-color: rgb(41, 7, 7);
+    width: 8px;
+} */
+
+.columnas {
+    margin: 10px;
+}
